@@ -1,9 +1,9 @@
 # Agence la Panthère
 
 -   Quatrième projet du parcours "Développeur web" chez OpenClassroom.
--   [Pour visualiser le site optimisé](https://vincetalgorn.github.io/VinceTalgorn_Openclassrooms_Projet_4/).
--   [Pour visualiser le site à optimiser](https://vincetalgorn.github.io/Test_SEO/).
 -   L'objectif est d'optimiser un site web existant
+-   [Pour visualiser le site optimisé](https://vincetalgorn.github.io/VinceTalgorn_Openclassrooms_Projet_4/).
+-   [Pour visualiser le site qui était à optimiser](https://vincetalgorn.github.io/Test_SEO/).
 
 ![screenshot du site optimisé](./img/Accueil_desktop.png)
 
@@ -19,11 +19,13 @@
 
 ### Rapport d'analyse
 
--   Vous trouverez un [rapport d'analyse](./Optimisez_un_site_web_existant_Talgorn_Vincent/Talgorn_Vincent_1_rapport%20analyse_072022.xlsx) sous format Excel. Dans ce document, sont détaillées 10 recommandations afin d'améliorer et de répondre aux objectifs listés au-dessus.
+-   Vous trouverez un [rapport d'analyse](./Optimisez_un_site_web_existant_Talgorn_Vincent/Talgorn_Vincent_1_rapport%20analyse_072022.xlsx) sous format Excel.
+-   Dans ce document, sont détaillées 10 recommandations pour répondre aux objectifs listés ci-dessus.
 
 ### Rapport d'optimisation
 
--   Vous trouverez un [rapport d'optimisation](./Optimisez_un_site_web_existant_Talgorn_Vincent/Talgorn_Vincent_3_rapport_optimisation_072022.pdf) sous format PDF. Dans ce document est détaillé sont détaillés, le contexte de la misison, les recommandtations et les tests de performances du site avant/après mise en place de ces 10 recommandations.
+-   Vous trouverez un [rapport d'optimisation](./Optimisez_un_site_web_existant_Talgorn_Vincent/Talgorn_Vincent_3_rapport_optimisation_072022.pdf) sous format PDF.
+-   Dans ce document, sont détaillés, le contexte de la misison, les recommandations et les tests de performances du site avant/après la mise en place de ces 10 recommandations.
 
 ## Contact
 
