@@ -1,11 +1,11 @@
 # Agence la Panthère
 
 -   Quatrième projet du parcours "Développeur web" chez OpenClassroom.
--   [Pour visualiser le site optimisé, cliquez ici](https://vincetalgorn.github.io/VinceTalgorn_Openclassrooms_Projet_4/).
--   [Pour visualiser le site à optimiser, cliquez ici](https://vincetalgorn.github.io/Test_SEO/).
+-   [Pour visualiser le site optimisé](https://vincetalgorn.github.io/VinceTalgorn_Openclassrooms_Projet_4/).
+-   [Pour visualiser le site à optimiser](https://vincetalgorn.github.io/Test_SEO/).
 -   L'objectif est d'optimiser un site web existant
 
-![logo](./img/logo.png)
+![screenshot du site optimisé](./img/Accueil_desktop.png)
 
 ## Objectifs
 
